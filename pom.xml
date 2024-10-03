@@ -21,20 +21,6 @@
             <version>17.0.2</version>
         </dependency>
 
-        <!-- Dependencia para PGPainless -->
-        <dependency>
-            <groupId>org.pgpainless</groupId>
-            <artifactId>pgpainless-core</artifactId>
-            <version>1.6.7</version>
-        </dependency>
-
-        <!-- Dependencia adicional para PGPainless KeySpec y RSA -->
-        <dependency>
-            <groupId>org.pgpainless</groupId>
-            <artifactId>pgpainless-core</artifactId>
-            <version>1.6.7</version>
-        </dependency>
-
         <!-- Dependencia para Bouncy Castle -->
         <dependency>
             <groupId>org.bouncycastle</groupId>
